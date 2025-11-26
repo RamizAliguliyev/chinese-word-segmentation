@@ -16,4 +16,4 @@ This project implements a **Maximum Matching algorithm** to segment Chinese text
 Run the main script to segment the raw text. It takes the wordlist and input text as arguments and saves the result to `MYRESULTS.utf8`.
 
 ```bash
-python chinese_segmentation_STARTER_CODE.py chinesetrad_wordlist.utf8 chinesetext.utf8 MYRESULTS.utf8
+python chinese_segmentation.py chinesetrad_wordlist.utf8 chinesetext.utf8 MYRESULTS.utf8
